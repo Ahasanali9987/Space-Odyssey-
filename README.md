@@ -36,7 +36,7 @@ Hold to rise, release to fall. Dodge planets, comets, asteroids and crystal spik
 ## Play
 
 Open the game here:  
-**[Space Odyssey](https://ahasanali9987.github.io/Space-Odyssey-/)*
+**[Space Odyssey](https://ahasanali9987.github.io/SpaceOdyssey/)*
 *
 ---
 
